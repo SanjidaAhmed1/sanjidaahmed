@@ -30,7 +30,7 @@ Use tab keys to move from one input field to the next.
 <li><label for="Dob">Date of birth:</label></li>
 <li><input type="date" name="birthday" class="error" /></li>
 
-<li><label id="gender">Sex:</label></li>
+<li><label id="gender">Gender:</label></li>
 <li><input type="radio" name="msex" value="Male" /><span>Male</span></li>
 <li><input type="radio" name="fsex" value="Female" /><span>Female</span></li>
 
